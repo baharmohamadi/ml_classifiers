@@ -25,6 +25,3 @@ This project compares the performance of several traditional machine learning cl
 - **Scikit-plot / Yellowbrick** (optional) – Advanced evaluation plots
 
 ---
-
-## 📁 Project Structure
-
